@@ -12,7 +12,7 @@
 <!-- Organization Name -->
 <div align="center">
 
-[![Static Badge](https://img.shields.io/badge/Stability_Nexus-/TODO-228B22?style=for-the-badge&labelColor=FFC517)](https://TODO.stability.nexus/)
+[![Static Badge](https://img.shields.io/badge/Stability-/Info-228B22?style=for-the-badge&labelColor=FFC517)](https://TODO.stability.nexus/)
 
 <!-- Correct deployed url to be added -->
 
@@ -48,105 +48,9 @@
 ---
 
 <div align="center">
-<h1>TODO: Project Name</h1>
+<h1>Info</h1>
 </div>
 
-[TODO](https://TODO.stability.nexus/) is a ... TODO: Project Description.
-
----
-
-## Tech Stack
-
-TODO:
-
-### Frontend
-
-TODO:
-
-- Next.js 14+ (React)
-- TypeScript
-- TailwindCSS
-- shadcn/ui
-
-### Blockchain
-
-TODO:
-
-- Wagmi
-- Solidity Smart Contracts
-- Ethers.js
-- Rainbow-Kit Wallet Integration
-
----
-
-## Getting Started
-
-### Prerequisites
-
-TODO
-
-- Node.js 18+
-- npm/yarn/pnpm
-- MetaMask or any other web3 wallet browser extension
-
-### Installation
-
-TODO
-
-#### 1. Clone the Repository
-
-```bash
-git clone https://github.com/StabilityNexus/TODO.git
-cd TODO
-```
-
-#### 2. Install Dependencies
-
-Using your preferred package manager:
-
-```bash
-npm install
-# or
-yarn install
-# or
-pnpm install
-```
-
-#### 3. Run the Development Server
-
-Start the app locally:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-#### 4. Open your Browser
-
-Navigate to [http://localhost:3000](http://localhost:3000) to see the application.
-
----
-
-## Contributing
-
-We welcome contributions of all kinds! To contribute:
-
-1. Fork the repository and create your feature branch (`git checkout -b feature/AmazingFeature`).
-2. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-3. Run the development workflow commands to ensure code quality:
-   - `npm run format:write`
-   - `npm run lint:fix`
-   - `npm run typecheck`
-4. Push your branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request for review.
-
-If you encounter bugs, need help, or have feature requests:
-
-- Please open an issue in this repository providing detailed information.
-- Describe the problem clearly and include any relevant logs or screenshots.
 
 We appreciate your feedback and contributions!
 
