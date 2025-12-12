@@ -11,7 +11,7 @@
 <!-- Organization Name -->
 <div align="center">
 
-[![Static Badge](https://img.shields.io/badge/Stability-/Nexus-228B22?style=for-the-badge&labelColor=FFC517)](https://stability.nexus/)
+[![Static Badge](https://img.shields.io/badge/Stability-Nexus-228B22?style=for-the-badge&labelColor=FFC517)](https://stability.nexus/)
 
 <!-- Correct deployed url to be added -->
 
@@ -49,8 +49,5 @@
 <div align="center">
 <h1>Info</h1>
 </div>
-
-
-We appreciate your feedback and contributions!
 
 © 2025 The Stable Order.
