@@ -56,7 +56,7 @@ We will never ask for your password, recovery phrase or private keys. Anyone ask
 We do not provide support of any kind. We do research and development. Uses of the algorithms, protocols, 
 smart contracts, websites and applications that result from our research and development are at your own risk.
 
-By using this application, you confirm that you understand and agree with everything stated above and with our detailed [Terms and Conditions](TODO).
+By using this application, you confirm that you understand and agree with everything stated above and with our detailed [Terms and Conditions](https://terms.stability.nexus).
 
 - [ ] I understand and I agree.
 
