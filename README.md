@@ -44,10 +44,69 @@
   <img src="https://img.shields.io/youtube/channel/subscribers/UCZOG4YhFQdlGaLugr_e5BKw?style=flat&logo=youtube&logoColor=white&logoSize=auto&labelColor=FF0000&color=FF0000" alt="Youtube Badge"></a>
 </p>
 
----
 
 <div align="center">
 <h1>Info</h1>
 </div>
+
+
+## 📁 Repository Structure & File Index
+
+This repository contains all official documentation, policies, and legal information for **Stability Nexus**.  
+Each file is directly listed with its exact path so users can access documents without browsing folders.
+
+---
+
+### 📄 Core Documents
+
+- **README.md**  
+  Main overview of this repository, its purpose, and references.  
+  👉 `README.md`
+
+- **KYA.md**  
+  Know Your Agreement (KYA) – contributor and participation guidelines.  
+  👉 `KYA.md`
+
+- **TermsAndConditions.md**  
+  Official terms and conditions governing usage, participation, and compliance.  
+  👉 `TermsAndConditions.md`
+
+- **COPYRIGHT.md**  
+  Copyright ownership, usage rights, and intellectual property policy.  
+  👉 `COPYRIGHT.md`
+
+- **.gitignore**  
+  Defines files and directories ignored by Git version control.  
+  👉 `.gitignore`
+
+---
+
+### 📂 Licenses
+
+- **Licenses/**  
+  Contains all open-source and legal licenses used by Stability Nexus projects.  
+  👉 `Licenses/`
+
+---
+
+### 🌐 Public Assets
+
+- **public/**  
+  Publicly accessible assets such as logos, icons, and branding resources.
+
+  - `public/stability.svg` — Official Stability Nexus logo  
+    👉 `public/stability.svg`
+
+---
+
+## 🔗 Repository Link
+
+All files listed above are part of this repository:  
+**[https://github.com/StabilityNexus/Info](https://github.com/StabilityNexus/Info)**
+
+Users can directly access any document using the paths above without navigating the folder structure.
+
+---
+
 
 © 2025 The Stable Order.
