@@ -17,7 +17,7 @@
 
 <!-- Organization/Project Social Handles -->
 <p align="center">
-<!-- Telegram -->
+
 <a href="https://t.me/StabilityNexus">
 <img src="https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram&logoColor=white&logoSize=auto&color=24A1DE" alt="Telegram Badge"/></a>
 &nbsp;&nbsp;
@@ -169,3 +169,4 @@ The Stable Order is dedicated to creating a more stable world through:
 [⬆ Back to Top](#readme-top)
 
 </div>
+
