@@ -1,0 +1,79 @@
+{
+  "@context": {
+    "@language":"en-us",
+    "CIP100":"https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP119":"https://github.com/cardano-foundation/CIPs/blob/master/CIP-0119/README.md#",
+    "authors":{
+      "@container":"@set",
+      "@context":{
+        "name":"http://xmlns.com/foaf/0.1/name",
+        "witness":{
+          "@context":{
+            "publicKey":"CIP100:publicKey",
+            "signature":"CIP100:signature",
+            "witnessAlgorithm":"CIP100:witnessAlgorithm"
+          },
+          "@id":"CIP100:witness"
+        }
+      },
+      "@id":"CIP100:authors"
+    },
+    "body":{
+      "@context":{
+        "bio":"CIPQQQ:bio",
+        "dRepName":"CIPQQQ:dRepName",
+        "email":"CIPQQQ:email",
+        "givenName":"CIP119:givenName",
+        "image":{
+          "@context":{"ImageObject":"https://schema.org/ImageObject"},
+          "@id":"CIP119:image"
+        },
+        "motivations":"CIP119:motivations",
+        "objectives":"CIP119:objectives",
+        "paymentAddress":"CIP119:paymentAddress",
+        "qualifications":"CIP119:qualifications",
+        "references":{
+          "@container":"@set",
+          "@context":{
+            "GovernanceMetadata":"CIP100:GovernanceMetadataReference",
+            "Other":"CIP100:OtherReference",
+            "label":"CIP100:reference-label",
+            "referenceHash":{
+              "@context":{
+                "hashAlgorithm":"CIP100:hashAlgorithm",
+                "hashDigest":"CIPQQQ:hashDigest"
+              },
+              "@id":"CIPQQQ:referenceHash"
+            },
+            "uri":"CIP100:reference-uri"
+          },
+          "@id":"CIP119:references"
+        }
+      },
+      "@id":"CIP119:body"
+    },
+    "hashAlgorithm":"CIP100:hashAlgorithm"
+  },
+  "authors":[],
+  "hashAlgorithm":{"@value":"blake2b-256"},
+  "body":{
+    "bio":{"@value":""},
+    "dRepName":{"@value":"The Stable Order"},
+    "email":{"@value":"contact@stability.nexus"},
+    "givenName":"The Stable Order",
+    "image":{
+      "@type":"ImageObject",
+      "contentUrl":"https://raw.githubusercontent.com/StabilityNexus/Info/refs/heads/main/public/StabilityNexus.png",
+      "sha256":"9ec48e4c6563577771126e7b3a94da8ad47470f7723e419746ebb4b0242bc550"
+    },
+    "motivations":"Make the world more stable.",
+    "objectives":"Make the world more stable.",
+    "paymentAddress":"addr1q8ytcjet48xgvnjvpmqmhe2u6ljxsgdfpcy870m23shruk3a4q6uxf4ykqlpl3tucxwtfc2vn74p3v5kexdzrd7slghqu62l7m",
+    "qualifications":"Members of The Stable Order have been working in this area since 2011.",
+    "references":[
+      {"@type":"Link","label":"Social","uri":"https://x.com/StabilityNexus"},
+      {"@type":"Link","label":"Website","uri":"https://stability.nexus"},
+      {"@type":"Identity","label":"Identity and Governance","uri":"https://stability.nexus/governance"}
+    ]
+  }
+}
