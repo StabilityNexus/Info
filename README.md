@@ -61,31 +61,19 @@ Each file is directly listed with its exact path so users can access documents w
 
 - **README.md**  
   Main overview of this repository, its purpose, and references.  
-  👉 `README.md`
 
-- **KYA.md**  
-  Know Your Agreement (KYA) – contributor and participation guidelines.  
-  👉 `KYA.md`
+- **TermsOfUse.md**  
+  Terms governing use of all Stability Nexus's works.  
 
-- **TermsAndConditions.md**  
-  Official terms and conditions governing usage, participation, and compliance.  
-  👉 `TermsAndConditions.md`
-
-- **COPYRIGHT.md**  
-  Copyright ownership, usage rights, and intellectual property policy.  
-  👉 `COPYRIGHT.md`
-
-- **.gitignore**  
-  Defines files and directories ignored by Git version control.  
-  👉 `.gitignore`
+- **PrivacyNotice.md**  
+  Notice explaining how personal data is processed in connection with use Stability nexus's works.  
 
 ---
 
 ### 📂 Licenses
 
 - **Licenses/**  
-  Contains all open-source and legal licenses used by Stability Nexus projects.  
-  👉 `Licenses/`
+  Contains licenses used by Stability Nexus projects.  
 
 ---
 
@@ -97,8 +85,4 @@ Each file is directly listed with its exact path so users can access documents w
   - `public/stability.svg` — Official Stability Nexus logo  
     👉 `public/stability.svg`
 
----
 
-
-
-© 2025 The Stable Order.
