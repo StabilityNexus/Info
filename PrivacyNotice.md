@@ -1,10 +1,12 @@
 # Privacy Notice
 
-**Version 1.2 — DRAFT for review. Do not publish before you complete the marked items.**
+**Version 1.0**
 
-**Effective date: 2026-07-07**
-**Domains: stability.nexus and its subdomains.**
-**Repositories: all repositories within https://github.com/StabilityNexus.**
+**Effective date:** 2026-07-07.
+
+**Domains:** stability.nexus and its subdomains.
+
+**Repositories:** all repositories within https://github.com/StabilityNexus.
 
 ---
 
@@ -150,4 +152,4 @@
 
 ---
 
-*End of Privacy Notice, version 1.2.*
+*End of Privacy Notice, version 1.0.*
