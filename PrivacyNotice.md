@@ -1,6 +1,6 @@
 # Privacy Notice
 
-**Version 1.0**
+**Version 1.1**
 
 **Effective date:** 2026-07-07.
 
@@ -56,7 +56,7 @@
 
 ## 5. Our Interfaces
 
-5.1 An Interface is a static web page, described in clause 13 of our Terms of Use. It runs in your browser. No Contributor operates a server behind it.
+5.1 An Interface is a static web page or mobile app, described in clause 13 of our Terms of Use. It runs in your browser. No Contributor operates a server behind it.
 
 5.2 An Interface may store data on your own device, for example in your browser's local storage, so that it can remember your settings between visits. This data stays on your device. No Contributor receives it, stores it, or has access to it.
 
@@ -152,4 +152,4 @@
 
 ---
 
-*End of Privacy Notice, version 1.0.*
+*End of Privacy Notice, version 1.1.*
