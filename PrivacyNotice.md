@@ -148,7 +148,7 @@
 
 14.1 For a question about this notice, or about data protection, contact privacy@stability.nexus.
 
-14.2 Contact does not create any relationship, any duty, or any obligation, beyond answering your question so far as we reasonably can. Clause 18.3 of our Terms of Use states the equivalent position for general contact.
+14.2 Contact does not create any relationship, any duty, or any obligation, beyond answering your question so far as we reasonably can.
 
 ---
 
