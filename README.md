@@ -66,7 +66,7 @@ Each file is directly listed with its exact path so users can access documents w
   Terms governing use of all Stability Nexus's works.  
 
 - **PrivacyNotice.md**  
-  Notice explaining how personal data is processed in connection with use Stability nexus's works.  
+  Notice explaining how personal data is processed in connection with use of Stability Nexus's works.  
 
 ---
 
