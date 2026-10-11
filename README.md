@@ -85,4 +85,13 @@ Each file is directly listed with its exact path so users can access documents w
   - `public/stability.svg` — Official Stability Nexus logo  
     👉 `public/stability.svg`
 
+  - `public/StabilityNexus.png` — Stability Nexus logo (PNG)  
+
+  - `public/intro-video/` — Official Stability Nexus intro video in multiple resolutions and GIF format  
+    - `public/intro-video/intro_1080p.mp4` — 1080p  
+    - `public/intro-video/intro_720p.mp4` — 720p
+    - `public/intro-video/intro_480p.mp4` — 480p
+    - `public/intro-video/intro_gif.gif` — GIF 
+
+
 
